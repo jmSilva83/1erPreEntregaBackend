@@ -1,0 +1,112 @@
+[
+	{
+		"title": "A PLAGUE TALE INNOCENCE",
+		"description": "A Plague Tale: Innocence es un juego de acción y aventura ambientado en una Francia medieval devastada por la enfermedad y la guerra. Sigue la historia de dos hermanos, Amicia y Hugo, mientras luchan por sobrevivir y escapar de la Inquisición y las hordas de ratas que propagan la peste.",
+		"code": "APTI-XBOX",
+		"price": 39.99,
+		"status": true,
+		"stock": 10,
+		"category": 2,
+		"thumbnails": [],
+		"id": 2
+	},
+	{
+		"title": "ELDEN RING",
+		"description": "Elden Ring es un juego de rol de acción desarrollado por FromSoftware en colaboración con George R. R. Martin. Sumérgete en un vasto mundo abierto lleno de peligros y misterios mientras buscas restaurar el Elden Ring y reclamar tu destino como Señor de Elden.",
+		"code": "ELDR-XBOX",
+		"price": 39.99,
+		"status": true,
+		"stock": 10,
+		"category": 3,
+		"thumbnails": [],
+		"id": 3
+	},
+	{
+		"title": "RED DEAD REDEMPTION II",
+		"description": "Red Dead Redemption II es un épico juego de acción y aventura ambientado en el salvaje oeste americano. Sigue la historia de Arthur Morgan y la banda Van der Linde mientras luchan por sobrevivir en un mundo implacable lleno de peligros y oportunidades.",
+		"code": "RDR2-XBOX",
+		"price": 59.99,
+		"status": true,
+		"stock": 10,
+		"category": 1,
+		"thumbnails": [],
+		"id": 4
+	},
+	{
+		"title": "SEKIRO",
+		"description": "Sekiro: Shadows Die Twice es un juego de acción y sigilo ambientado en el Japón feudal. Encarna a un shinobi en su búsqueda de venganza contra sus enemigos, enfrentándote a desafiantes batallas de jefes y explorando un mundo lleno de secretos.",
+		"code": "SEKI-XBOX",
+		"price": 39.99,
+		"status": true,
+		"stock": 10,
+		"category": 1,
+		"thumbnails": [],
+		"id": 5
+	},
+	{
+		"title": "A PLAGUE TALE REQUIEM",
+		"description": "A Plague Tale: Requiem es la esperada secuela del exitoso juego A Plague Tale: Innocence. Únete a Amicia y Hugo en su peligroso viaje a través de la Francia medieval mientras luchan por sobrevivir a las hordas de ratas y la Inquisición.",
+		"code": "APTR-XBOX",
+		"price": 59.99,
+		"status": true,
+		"stock": 10,
+		"category": 2,
+		"thumbnails": [],
+		"id": 7
+	},
+	{
+		"title": "CYBERPUNK 2077 U.E.",
+		"description": "Cyberpunk 2077: Ultimate Edition es la edición definitiva del revolucionario juego de rol de CD Projekt Red. Sumérgete en Night City, una metrópolis futurista llena de intriga y peligro, y forja tu propio camino en un mundo lleno de posibilidades.",
+		"code": "CP77U-XBOX",
+		"price": 53.59,
+		"status": true,
+		"stock": 10,
+		"category": 3,
+		"thumbnails": [],
+		"id": 8
+	},
+	{
+		"title": "LORDS OF THE FALLEN",
+		"description": "Lords of the Fallen es un desafiante juego de rol de acción ambientado en un mundo oscuro y misterioso. Conviértete en un guerrero poderoso y lucha contra criaturas monstruosas mientras desentrañas los secretos de un antiguo mal.",
+		"code": "LOTF-XBOX",
+		"price": 39.99,
+		"status": true,
+		"stock": 10,
+		"category": 1,
+		"thumbnails": [],
+		"id": 9
+	},
+	{
+		"title": "THE WITCHER III C.E.",
+		"description": "The Witcher 3: Wild Hunt - Complete Edition es la edición definitiva del galardonado juego de rol de CD Projekt Red. Sumérgete en un mundo de fantasía épico lleno de monstruos, magia y aventuras mientras sigues la historia del legendario cazador de monstruos Geralt de Rivia.",
+		"code": "TW3CE-XBOX",
+		"price": 53.59,
+		"status": true,
+		"stock": 10,
+		"category": 3,
+		"thumbnails": [],
+		"id": 10
+	},
+	{
+		"title": "RESIDENT EVIL 4 R.G.E.",
+		"description": "Resident Evil 4 R.G.E. es un remake del clásico juego de terror lanzado en 2005. Revive la experiencia del agente especial Leon S. Kennedy mientras se adentra en un misterioso pueblo europeo para rescatar a la hija secuestrada del presidente de los EE. UU.",
+		"code": "RE4RGE-XBOX",
+		"price": 39.99,
+		"status": true,
+		"stock": 10,
+		"category": 1,
+		"thumbnails": [],
+		"id": 11
+	},
+	{
+		"title": "ALAN WAKE II",
+		"description": "Alan Wake 2 es un juego de terror que continúa la historia del aclamado videojuego de acción y aventura lanzado en 2010. En esta secuela, Alan Wake, un exitoso escritor con base en Nueva York, ha estado atrapado durante 13 años. Su lucha por la cordura y la libertad se desarrolla en el Pacífico Noroeste, una región de majestuosos paisajes y misteriosas sombras.",
+		"code": "AW2-XBOX",
+		"price": 79.99,
+		"status": true,
+		"stock": 10,
+		"category": "Juegos",
+		"thumbnails": [],
+		"id": 12
+	}
+]
