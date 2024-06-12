@@ -8,7 +8,7 @@
 		"stock": 10,
 		"category": 2,
 		"thumbnails": [],
-		"id": 2
+		"id": 1
 	},
 	{
 		"title": "ELDEN RING",
@@ -19,7 +19,7 @@
 		"stock": 10,
 		"category": 3,
 		"thumbnails": [],
-		"id": 3
+		"id": 2
 	},
 	{
 		"title": "RED DEAD REDEMPTION II",
@@ -30,7 +30,7 @@
 		"stock": 10,
 		"category": 1,
 		"thumbnails": [],
-		"id": 4
+		"id": 3
 	},
 	{
 		"title": "SEKIRO",
@@ -41,7 +41,7 @@
 		"stock": 10,
 		"category": 1,
 		"thumbnails": [],
-		"id": 5
+		"id": 4
 	},
 	{
 		"title": "A PLAGUE TALE REQUIEM",
@@ -52,7 +52,7 @@
 		"stock": 10,
 		"category": 2,
 		"thumbnails": [],
-		"id": 7
+		"id": 5
 	},
 	{
 		"title": "CYBERPUNK 2077 U.E.",
@@ -63,7 +63,7 @@
 		"stock": 10,
 		"category": 3,
 		"thumbnails": [],
-		"id": 8
+		"id": 6
 	},
 	{
 		"title": "LORDS OF THE FALLEN",
@@ -74,7 +74,7 @@
 		"stock": 10,
 		"category": 1,
 		"thumbnails": [],
-		"id": 9
+		"id": 7
 	},
 	{
 		"title": "THE WITCHER III C.E.",
@@ -85,7 +85,7 @@
 		"stock": 10,
 		"category": 3,
 		"thumbnails": [],
-		"id": 10
+		"id": 8
 	},
 	{
 		"title": "RESIDENT EVIL 4 R.G.E.",
@@ -96,7 +96,7 @@
 		"stock": 10,
 		"category": 1,
 		"thumbnails": [],
-		"id": 11
+		"id": 9
 	},
 	{
 		"title": "ALAN WAKE II",
@@ -107,6 +107,6 @@
 		"stock": 10,
 		"category": "Juegos",
 		"thumbnails": [],
-		"id": 12
+		"id": 10
 	}
 ]

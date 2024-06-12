@@ -1,5 +1,36 @@
 [
-	{
-		"id": 1
-	}
+  {
+    "id": 1,
+    "products": [
+      {
+        "title": "A PLAGUE TALE INNOCENCE",
+        "description": "A Plague Tale: Innocence es un juego de acción y aventura ambientado en una Francia medieval devastada por la enfermedad y la guerra. Sigue la historia de dos hermanos, Amicia y Hugo, mientras luchan por sobrevivir y escapar de la Inquisición y las hordas de ratas que propagan la peste.",
+        "code": "APTI-XBOX",
+        "price": 39.99,
+        "status": true,
+        "stock": 10,
+        "category": 2,
+        "thumbnails": [],
+        "id": 1,
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "products": [
+      {
+        "title": "RED DEAD REDEMPTION II",
+        "description": "Red Dead Redemption II es un épico juego de acción y aventura ambientado en el salvaje oeste americano. Sigue la historia de Arthur Morgan y la banda Van der Linde mientras luchan por sobrevivir en un mundo implacable lleno de peligros y oportunidades.",
+        "code": "RDR2-XBOX",
+        "price": 59.99,
+        "status": true,
+        "stock": 10,
+        "category": 1,
+        "thumbnails": [],
+        "id": 3,
+        "quantity": 4
+      }
+    ]
+  }
 ]

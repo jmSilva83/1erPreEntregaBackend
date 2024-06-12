@@ -71,7 +71,7 @@ router.post("/", async (req, res) => {
         typeof code !== "string" ||
         typeof price !== "number" ||
         typeof stock !== "number" ||
-        typeof category !== "number" ||
+        typeof category !== "string" ||
         (thumbnails && !Array.isArray(thumbnails))
     ) {
         return res.status(400).send("Incorrect data types, please try again");
